@@ -1,5 +1,10 @@
 {
   "LANGUAGE": {
     "LANGUAGE_WORD": "Idioma"
+  },
+  "COMMON": {
+    "ACTIONS": {
+      "APPLY": "Aplicar"
+    }
   }
 }
